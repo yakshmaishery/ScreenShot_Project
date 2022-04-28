@@ -1,6 +1,6 @@
 # Prerequisites
-- Install Python3
-- Install Pillow
+- Install **Python3**
+- Install **Pillow**
 
 ![image](https://user-images.githubusercontent.com/91420481/162940708-24a10e03-1048-4ca6-b45e-077338000334.png)
 
